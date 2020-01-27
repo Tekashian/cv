@@ -1,4 +1,3 @@
-
 body {
   font-size: 2em;
   margin: 0;
@@ -40,7 +39,7 @@ text-decoration: none
 
 }
 a:hover {
-color:white;
+color:#f8b400;
 }
 
 .topBarContainer {
@@ -81,10 +80,10 @@ margin:auto ;
 }
 
 .computer {
-  height: 300px;
-  width: 29%;
+  height: 625px;
+  width: 45%;
   float: left;
-  margin-right: 20px;
+  margin-right: 50px;
 }
 
 .programer {
@@ -99,27 +98,25 @@ margin:auto ;
 }
 
 .burger {
-  height: 350px;
-  width: 25%;
+  height: 429px;
+  width: 55%;
   float:right;
   margin-left: 20px;
 }
 .paraBur{
 text-align:right;
 }
-.toOdrazu {
-text-align:left;
-}
+
 .skill-row {
-width: 50%;
+width: 70%;
 margin:100px auto 100px auto;
-text-align: left;
+text-align: right;
 line-height: 2 ;
 }
 .skill-burger {
-width:50%;
+width:70%;
 margin: 100px auto 100px auto;
-text-align: right;
+text-align: left;
 line-height: 2;
 }
 .profile {
@@ -130,37 +127,40 @@ line-height: 2;
 .myProjects-row {
   width: 50%;
   margin:100px auto 100px auto;
-  text-align: left;
+  text-align:right;
   line-height: 2 ;
 }
 .project {
-height: 300px;
+height: 430px;
 width: 35%;;
 float:left;
 }
 .kalendarz{
   width: 50%;
   margin:100px auto 100px auto;
-  text-align: right;
+  text-align:left;
   line-height: 2 ;
 }
 .kalendarz-gif {
-height:250px;
-width:25%;
+height:366px;
+width:35%;
 float: right;
 }
 
 .nieruchomosci {
   width: 50%;
   margin:100px auto 100px auto;
-  text-align: left;
+  text-align: right;
   line-height: 2 ;
 }
 .budynek {
-  height:250px;
-  width:25%;
+  height:367px;
+  width:35%;
   float: left;
 
+}
+.findyourcantor {
+color:#655c56;
 }
 
 .btn {
