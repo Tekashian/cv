@@ -80,10 +80,10 @@ margin:auto ;
 }
 
 .computer {
-  height: 625px;
+  height: 623px;
   width: 45%;
-  float: left;
-  margin-right: 50px;
+  float: right;
+  margin-left: 50px;
 }
 
 .programer {
@@ -98,10 +98,10 @@ margin:auto ;
 }
 
 .burger {
-  height: 429px;
+  height: 368px;
   width: 55%;
-  float:right;
-  margin-left: 20px;
+  float:left;
+  margin-right: 20px;
 }
 .paraBur{
 text-align:right;
@@ -110,13 +110,13 @@ text-align:right;
 .skill-row {
 width: 70%;
 margin:100px auto 100px auto;
-text-align: right;
+text-align: left;
 line-height: 2 ;
 }
 .skill-burger {
 width:70%;
 margin: 100px auto 100px auto;
-text-align: left;
+text-align: right;
 line-height: 2;
 }
 .profile {
@@ -159,6 +159,9 @@ float: right;
   float: left;
 
 }
+.hFindyourcantor{
+color:#66BFBF;
+}
 .findyourcantor {
 color:#655c56;
 }
@@ -166,9 +169,9 @@ color:#655c56;
 .btn {
 	box-shadow: 0px 1px 0px 0px #f0f7fa;
 	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
-	background-color:#33bdef;
+	background-color:#66BFBF;
 	border-radius:6px;
-	border:1px solid #057fd0;
+	border:1px solid #66BFBF;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
