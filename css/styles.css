@@ -1,8 +1,10 @@
+
 body {
   font-size: 2em;
   margin: 0;
   text-align: center;
-  color:40514E;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color:#655c56;
 }
   hr {
   border-style: none;
@@ -80,7 +82,7 @@ margin:auto ;
 
 .computer {
   height: 300px;
-  width: 25%;
+  width: 29%;
   float: left;
   margin-right: 20px;
 }
@@ -97,10 +99,16 @@ margin:auto ;
 }
 
 .burger {
-  height: 250px;
+  height: 350px;
   width: 25%;
   float:right;
   margin-left: 20px;
+}
+.paraBur{
+text-align:right;
+}
+.toOdrazu {
+text-align:left;
 }
 .skill-row {
 width: 50%;
@@ -108,10 +116,51 @@ margin:100px auto 100px auto;
 text-align: left;
 line-height: 2 ;
 }
+.skill-burger {
+width:50%;
+margin: 100px auto 100px auto;
+text-align: right;
+line-height: 2;
+}
 .profile {
 width:50%;
 margin:100px auto 100px auto;
 line-height: 2;
+}
+.myProjects-row {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2 ;
+}
+.project {
+height: 300px;
+width: 35%;;
+float:left;
+}
+.kalendarz{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: right;
+  line-height: 2 ;
+}
+.kalendarz-gif {
+height:250px;
+width:25%;
+float: right;
+}
+
+.nieruchomosci {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2 ;
+}
+.budynek {
+  height:250px;
+  width:25%;
+  float: left;
+
 }
 
 .btn {
